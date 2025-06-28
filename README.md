@@ -15,7 +15,4 @@ This project contains the Altium Designer files for a linear voltage regulator c
 - Output files (Gerber, BOM, etc.)
 
 ## Preview
-![image](https://github.com/user-attachments/assets/0bef2f15-09bd-434a-bd8d-3df721a21931)
-
-
-
+![image](https://github.com/user-attachments/assets/072e13e6-64d9-4113-8d20-6e38796bfb57)
